@@ -1,4 +1,8 @@
 _repo: Spiritismo_49759
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49759-h/images/cover.jpg
 creator:
   author:
     agent_name: Capuana, Luigi
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2402
     wikipedia: http://it.wikipedia.org/wiki/Luigi_Capuana
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49759#Spiritismo
 gutenberg_bookshelf: IT Religione e Spiritualità
 gutenberg_issued: '2015-08-22'
 gutenberg_type: Text
